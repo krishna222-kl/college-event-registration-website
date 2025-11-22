@@ -3,7 +3,7 @@
 **Team:** Script Warriors  
 **Course:** BCA (3rd Semester)  
 **Institution:** ITM SLS Baroda University  
-**Hosted On:** Wix AI  
+**Hosted On:** Wix Platform
 
 ---
 
@@ -40,9 +40,9 @@ The goal was to demonstrate a modern, responsive, AI-generated web application.
 ## 🧰 Tools & Technologies Used
 | Category | Tools |
 |-----------|--------|
-| **Frontend** | HTML5, CSS3, Tailwind (used by Wix AI) |
+| **Frontend** | HTML5, CSS3, Tailwind CSS |
 | **Backend** | PHP (simulated form handling for demo) |
-| **Hosting** | Wix AI Platform |
-| **Design** | Canva, Figma (for presentation visuals) |
+| **Hosting** | Wix  Platform |
+| **Design** | GAMMA, Figma (for presentation visuals) |
 
 ---
